@@ -1,0 +1,25 @@
+{
+  "name": "nesl",
+  "displayName": "nesl",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "nesl",
+      "aliases": ["nesl", "nesl"],
+      "extensions": [".nesl"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "nesl",
+      "scopeName": "source.nesl",
+      "path": "./syntaxes/nesl.tmLanguage.json"
+    }]
+  }
+}
