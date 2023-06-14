@@ -3,6 +3,7 @@
   "displayName": "nesl",
   "description": "",
   "version": "0.0.1",
+  "publisher": "kirn",
   "engines": {
     "vscode": "^1.79.0"
   },
