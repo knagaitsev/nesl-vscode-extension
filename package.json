@@ -4,6 +4,10 @@
   "description": "",
   "version": "0.0.2",
   "publisher": "kirn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knagaitsev/nesl-vscode-extension"
+  },
   "engines": {
     "vscode": "^1.79.0"
   },
