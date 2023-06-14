@@ -22,7 +22,11 @@ None
 
 ## Release Notes
 
-### 1.0.0
+### 0.0.2
+
+Fix "in" keyword
+
+### 0.0.1
 
 First release
 
