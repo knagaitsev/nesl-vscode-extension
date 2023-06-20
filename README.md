@@ -22,6 +22,10 @@ None
 
 ## Release Notes
 
+### 0.0.3
+
+Fix "and" and "or" keywords
+
 ### 0.0.2
 
 Fix "in" keyword
